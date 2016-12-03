@@ -1,4 +1,4 @@
-(ns cinv.core.queue
+(ns example-app.core.queue
   (:require [mount.core :as mount]
             [clojure.tools.logging :as log]
             [clojure.core.async :as async]  ))
